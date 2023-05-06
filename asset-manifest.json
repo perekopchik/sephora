@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sephora/static/css/main.c87d3359.css",
+    "main.js": "/sephora/static/js/main.8fd541d5.js",
+    "static/media/slider-1.png": "/sephora/static/media/slider-1.471bf98e6c1e3815c987.png",
+    "static/media/slider-3.png": "/sephora/static/media/slider-3.befb99b94d69ca01fffb.png",
+    "static/media/slider-4.png": "/sephora/static/media/slider-4.6693871b8e7b4ebfe4dc.png",
+    "static/media/slider-5.png": "/sephora/static/media/slider-5.1098946e883cdc9a5b64.png",
+    "static/media/slider-6.png": "/sephora/static/media/slider-6.98ab6a5c83139b0367d8.png",
+    "static/media/slider-2.png": "/sephora/static/media/slider-2.faec08263cfe25ebeda6.png",
+    "index.html": "/sephora/index.html",
+    "main.c87d3359.css.map": "/sephora/static/css/main.c87d3359.css.map",
+    "main.8fd541d5.js.map": "/sephora/static/js/main.8fd541d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c87d3359.css",
+    "static/js/main.8fd541d5.js"
+  ]
+}
